@@ -1,7 +1,7 @@
 NewMSA
 ======
 
-this is test MSA
+This is the template for the MSA (Micro Serive Architecture) using django.
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
      :target: https://github.com/pydanny/cookiecutter-django/
